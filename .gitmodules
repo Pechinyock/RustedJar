@@ -1,0 +1,12 @@
+[submodule "RustedJar/vendor/spdlog"]
+	path = RustedJar/vendor/spdlog
+	url = https://github.com/gabime/spdlog
+[submodule "RustedJar/vendor/GLFW"]
+	path = RustedJar/vendor/GLFW
+	url = https://github.com/TheCherno/glfw
+[submodule "RustedJar/vendor/imgui"]
+	path = RustedJar/vendor/imgui
+	url = https://github.com/TheCherno/imgui
+[submodule "RustedJar/vendor/glm"]
+	path = RustedJar/vendor/glm
+	url = https://github.com/g-truc/glm
